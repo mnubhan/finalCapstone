@@ -46,18 +46,3 @@ python encoder.py "Your message here"
 
 You should replace "Your message here" with the actual message you want to 
 encode. The script will print the encoded message.
-
-![screenshot showing sample usage](screenshot.png)
-
-Please note, that the screenshot needs to be replaced with the actual 
-screenshot of your script in action.
-
-## Credits<a name="credits"></a>:
-This project was created by [Your Name](Your GitHub Profile Link). For any 
-queries, feel free to reach out or open an issue.
-
-_Your Name_\
-_Email Address_
-
-Remember to replace placeholders (like 'Your Name', 'Your GitHub Profile 
-Link', etc.) with actual values.
